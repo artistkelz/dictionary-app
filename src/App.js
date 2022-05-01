@@ -15,7 +15,13 @@ function App() {
         </main>
         <footer>
           Coded by Kelsey Murray, open sourced on {""}
-          <a href="https://github.com/artistkelz/dictionary-app">Github</a>
+          <a
+            href="https://github.com/artistkelz/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Github
+          </a>
         </footer>
       </div>
     </div>
