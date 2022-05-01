@@ -14,7 +14,8 @@ function App() {
           <Dictionary />
         </main>
         <footer>
-          Coded by Kelsey Murray hosted on Netifly and open sourced on Github
+          Coded by Kelsey Murray, open sourced on {""}
+          <a href="https://github.com/artistkelz/dictionary-app">Github</a>
         </footer>
       </div>
     </div>
