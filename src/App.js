@@ -11,7 +11,7 @@ function App() {
           <h1>Dictionary</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer>
           Coded by Kelsey Murray, open sourced on {""}
