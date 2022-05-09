@@ -14,7 +14,6 @@ export default function Meaning(props) {
             <div className="example">
               {definition.example && (
                 <>
-                  <br />
                   <em>{definition.example}</em>
                   <br />
                 </>
