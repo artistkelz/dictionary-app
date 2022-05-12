@@ -14,7 +14,15 @@ function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer>
-          Coded by Kelsey Murray, open sourced on {""}
+          Coded by{" "}
+          <a
+            href="https://www.linkedin.com/in/kelseymurray07/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Kelsey Murray
+          </a>
+          , open sourced on {""}
           <a
             href="https://github.com/artistkelz/dictionary-app"
             target="_blank"
